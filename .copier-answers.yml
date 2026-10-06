@@ -1,5 +1,5 @@
 # Changes here will be overwritten by Copier. Do not edit manually.
-_commit: v1.1.0
+_commit: v1.1.1
 _src_path: gh:RidhanPar/devex-golden-path
 coverage_threshold: 80
 description: Demo service generated from the DevEx golden path; used to prove the
