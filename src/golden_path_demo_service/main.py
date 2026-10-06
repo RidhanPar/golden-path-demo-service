@@ -27,3 +27,8 @@ def health() -> Health:
 def hello(name: str = "world") -> Greeting:
     """Return a greeting for ``name``."""
     return Greeting(message=f"Hello, {name}!")
+
+
+def shout(name: str) -> str:
+    """Upper-case greeting."""
+    return hello(name).message.upper
