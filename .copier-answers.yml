@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier. Do not edit manually.
+_commit: v1
+_src_path: gh:RidhanPar/devex-golden-path
+coverage_threshold: 80
+description: Demo service generated from the DevEx golden path; used to prove the
+    CI gates and produce DORA data.
+github_org: RidhanPar
+golden_path_ref: v1
+owner_team: platform
+package_name: golden_path_demo_service
+project_name: Golden Path Demo Service
+project_slug: golden-path-demo-service
+python_version: '3.13'
