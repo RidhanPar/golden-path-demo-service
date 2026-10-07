@@ -44,3 +44,5 @@ Read [`AI_USAGE.md`](AI_USAGE.md). Claude Code picks up [`CLAUDE.md`](CLAUDE.md)
 ```bash
 copier update --trust
 ```
+
+<!-- gate proof control: harmless docs change -->
