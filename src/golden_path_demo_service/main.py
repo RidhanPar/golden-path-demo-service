@@ -26,4 +26,4 @@ def health() -> Health:
 @app.get("/hello")
 def hello(name: str = "world") -> Greeting:
     """Return a greeting for ``name``."""
-    return Greeting(message=f"Hello, {name}!")
+    return Greeting(message=f"Hi, {name}!")
